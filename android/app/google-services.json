@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "866152773553",
+    "project_id": "learnlyapp-25db7",
+    "storage_bucket": "learnlyapp-25db7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866152773553:android:8991e323286b03c77e6f90",
+        "android_client_info": {
+          "package_name": "com.example.esprit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866152773553-4aqdgd2vrgtlfukg60l1b3ru755oobu0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.esprit",
+            "certificate_hash": "a789e505c817a122ea906ea6eaa3d48b3a30ab18"
+          }
+        },
+        {
+          "client_id": "866152773553-1oqavjks4b3mtp6pop9s82lil3f5ur97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV3jRwAhWtonsM77u8F-A-CnFpNa4Ux4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866152773553-1oqavjks4b3mtp6pop9s82lil3f5ur97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
